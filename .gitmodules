@@ -1,0 +1,24 @@
+[submodule "Plugins/TTToolbox"]
+	path = Plugins/TTToolbox
+	url = ../../tuatec/TTToolbox.git
+[submodule "Plugins/ALS-Refactored"]
+	path = Plugins/ALS-Refactored
+	url = ../ALS-Refactored.git
+[submodule "Plugins/ALSXT"]
+	path = Plugins/ALSXT
+	url = ../ALSXT.git
+[submodule "Plugins/TargetVectorEOS"]
+	path = Plugins/TargetVectorEOS
+	url = ../TargetVectorEOS.git
+[submodule "Plugins/TargetVectorCommonUI"]
+	path = Plugins/TargetVectorCommonUI
+	url = ../TargetVectorCommonUI.git
+[submodule "Plugins/TargetVectorContent"]
+	path = Plugins/TargetVectorContent
+	url = ../TargetVectorContent.git
+[submodule "Plugins/VaRest"]
+	path = Plugins/VaRest
+	url = ../../ufna/VaRest.git
+[submodule "Plugins/TargetVectorDebugNetStats"]
+	path = Plugins/TargetVectorDebugNetStats
+	url = ../TargetVectorDebugNetStats.git
